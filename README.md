@@ -33,4 +33,4 @@ Step 3: Set Up the Backend
 - Start the development server: `npm run start`
 
 # ScreenShot
-![ss](https://github.com/Mirza-Hassan/React_DPP/assets/17096257/fe449368-4622-4307-9e74-71c4bd42e73b)
+![Screenshot](https://github.com/Mirza-Hassan/React_DPP_Data/assets/17096257/6dae7813-36ee-40b3-9921-f6ad4f856f19)
