@@ -16,7 +16,7 @@ Develop a user-friendly web application with frontend and backend components to 
 - Backend: Nest.js
 
 # Folder Structure
-![fs](https://github.com/Mirza-Hassan/React_DPP/assets/17096257/c6d246d4-691f-4a70-b254-6b5520c448bf)
+![fss](https://github.com/Mirza-Hassan/React_DPP_Data/assets/17096257/85679aa1-58e9-4a81-a890-acacc2bc153f)
 
 
 # Setup Instructions
