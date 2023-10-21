@@ -32,8 +32,5 @@ Step 3: Set Up the Backend
 - Navigate to the `backend` directory and Run the command to install the required dependencies: `npm install`
 - Start the development server: `npm run start`
 
-Step 4: Upload Input Data
-Please upload the `inputDataTechExercise.csv` file to calculate the Percentage of Renewable Electricity Consumption. This file is used for data processing within the app.
-
 # ScreenShot
 ![ss](https://github.com/Mirza-Hassan/React_DPP/assets/17096257/fe449368-4622-4307-9e74-71c4bd42e73b)
